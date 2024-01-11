@@ -177,7 +177,7 @@ export const projects = [
     description:
       "FlickFiesta, a dynamic React JS and Redux Toolkit application, transforms your entertainment experience. Effortlessly explore, search, and delve into detailed information about movies and TV shows. With responsive design and efficient state management, ReelHub offers a streamlined platform for your cinematic journey, making entertainment discovery intuitive and enjoyable.",
     image:
-      "https://drive.google.com/file/d/1hurWwtxsQ-aAcv9DaUSI2PTdAOyaRKU3/view?usp=drive_link",
+      "https://github.com/Dnyaneshwari1707/dnyaneshwari/blob/main/src/images/Movie.jpg",
     tags: [
       "React Js",
       "Redux",
@@ -192,7 +192,7 @@ export const projects = [
     date: "Dec 2021 - Feb 2022",
     description:
       "SpiceSaga: A React JS restaurant app revolutionizing dining experiences. Seamlessly browse diverse menus, and explore restaurant details with a user-friendly interface. This project uses state-of-the-art technology to redefine experiences, combining innovation with user-centric design.",
-    image:      "https://drive.google.com/file/d/1lCZ2ns5G4ek_hMBWR8p5R9KsaFajiX-y/view?usp=sharing",
+    image:      "https://github.com/Dnyaneshwari1707/dnyaneshwari/blob/main/src/images/resto.jpg",
     tags: [
       "React Js",
       
