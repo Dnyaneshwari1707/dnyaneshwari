@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dnyaneshwari/static/css/main.bf538fe7.css",
+    "main.js": "/dnyaneshwari/static/js/main.95d8e577.js",
+    "static/media/HeroImage.jpeg": "/dnyaneshwari/static/media/HeroImage.478d70f40f136a8bea05.jpeg",
+    "index.html": "/dnyaneshwari/index.html",
+    "main.bf538fe7.css.map": "/dnyaneshwari/static/css/main.bf538fe7.css.map",
+    "main.95d8e577.js.map": "/dnyaneshwari/static/js/main.95d8e577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.95d8e577.js"
+  ]
+}
