@@ -177,7 +177,7 @@ export const projects = [
     description:
       "FlickFiesta, a dynamic React JS and Redux Toolkit application, transforms your entertainment experience. Effortlessly explore, search, and delve into detailed information about movies and TV shows. With responsive design and efficient state management, ReelHub offers a streamlined platform for your cinematic journey, making entertainment discovery intuitive and enjoyable.",
     image:
-      "https://drive.google.com/file/d/1hurWwtxsQ-aAcv9DaUSI2PTdAOyaRKU3/view?usp=drive_link",
+      "https://www.lifewire.com/thmb/UCtkl39x4XpiNlwUB9chXwP8jgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/youtube-app-fre-movies-0e0c7249ec954f5a88b1980b1e8b70a1.png",
     tags: [
       "React Js",
       "Redux",
