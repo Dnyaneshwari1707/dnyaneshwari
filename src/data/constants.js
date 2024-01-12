@@ -192,7 +192,8 @@ export const projects = [
     date: "Dec 2021 - Feb 2022",
     description:
       "SpiceSaga: A React JS restaurant app revolutionizing dining experiences. Seamlessly browse diverse menus, and explore restaurant details with a user-friendly interface. This project uses state-of-the-art technology to redefine experiences, combining innovation with user-centric design.",
-    image:      "https://github.com/Dnyaneshwari1707/dnyaneshwari/blob/main/src/images/resto.jpg",
+    image:  
+      "https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-food-app-ui-design-mockup-food-app-restaurant-food-ideas-image_2971511.jpg",
     tags: [
       "React Js",
       
